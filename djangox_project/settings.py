@@ -43,11 +43,11 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'crispy_forms',
-    'debug_toolbar',
-
-    # Local
+    'debug_toolbar', 
     'users',
     'pages',
+
+    #write your apps below
 ]
 
 MIDDLEWARE = [
