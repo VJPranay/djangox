@@ -1,4 +1,3 @@
-
 <img  width="400"  src="logo.png"  alt="DjangoX logo">
 
   
@@ -33,7 +32,7 @@ $ pip3 install virtualenv
 
 ```
 
-$ git clone https://github.com/wsvincent/djangox.git
+$ git clone https://github.com/VJPranay/djangox.git
 
 $ cd djangox
 
